@@ -3,5 +3,7 @@
     "serviceId" : "init"
   }, {
     "serviceId" : "maven"
+  }, {
+    "serviceId" : "java-base"
   } ]
 }
