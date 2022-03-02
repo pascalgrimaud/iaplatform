@@ -17,5 +17,7 @@
     "serviceId" : "postgresql"
   }, {
     "serviceId" : "springboot-jwt"
+  }, {
+    "serviceId" : "springboot-jwt-basic-auth"
   } ]
 }
