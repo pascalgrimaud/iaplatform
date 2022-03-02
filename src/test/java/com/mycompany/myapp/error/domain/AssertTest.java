@@ -3,9 +3,9 @@ package com.mycompany.myapp.error.domain;
 import static org.assertj.core.api.Assertions.assertThatCode;
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
 
+import com.mycompany.myapp.UnitTest;
 import java.util.List;
 import org.junit.jupiter.api.Test;
-import com.mycompany.myapp.UnitTest;
 
 @UnitTest
 class AssertTest {
