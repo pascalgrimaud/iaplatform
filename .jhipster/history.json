@@ -9,5 +9,7 @@
     "serviceId" : "springboot"
   }, {
     "serviceId" : "springboot-tomcat"
+  }, {
+    "serviceId" : "vite-vue-styled"
   } ]
 }
