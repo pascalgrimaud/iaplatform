@@ -23,5 +23,7 @@
     "serviceId" : "springdoc-openapi-with-security-jwt"
   }, {
     "serviceId" : "dummy-context"
+  }, {
+    "serviceId" : "jacoco-check-min-coverage"
   } ]
 }
