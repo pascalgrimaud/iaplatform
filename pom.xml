@@ -47,6 +47,7 @@
     <maven-antrun-plugin.version>3.0.0</maven-antrun-plugin.version>
     <testcontainers.version>1.16.2</testcontainers.version>
     <jjwt.version>0.11.2</jjwt.version>
+    <springdoc-openapi-ui.version>1.6.6</springdoc-openapi-ui.version>
     <!-- jhipster-needle-maven-property -->
   </properties>
 
@@ -126,6 +127,11 @@
       <artifactId>jjwt-jackson</artifactId>
       <version>${jjwt.version}</version>
       <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.springdoc</groupId>
+      <artifactId>springdoc-openapi-ui</artifactId>
+      <version>${springdoc-openapi-ui.version}</version>
     </dependency>
     <!-- jhipster-needle-maven-add-dependency -->
     <dependency>
