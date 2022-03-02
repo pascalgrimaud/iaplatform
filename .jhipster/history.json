@@ -13,5 +13,7 @@
     "serviceId" : "vite-vue-styled"
   }, {
     "serviceId" : "frontend-maven-plugin"
+  }, {
+    "serviceId" : "postgresql"
   } ]
 }
