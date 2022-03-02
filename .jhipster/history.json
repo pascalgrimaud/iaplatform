@@ -15,5 +15,7 @@
     "serviceId" : "frontend-maven-plugin"
   }, {
     "serviceId" : "postgresql"
+  }, {
+    "serviceId" : "springboot-jwt"
   } ]
 }
