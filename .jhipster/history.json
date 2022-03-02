@@ -11,5 +11,7 @@
     "serviceId" : "springboot-tomcat"
   }, {
     "serviceId" : "vite-vue-styled"
+  }, {
+    "serviceId" : "frontend-maven-plugin"
   } ]
 }
